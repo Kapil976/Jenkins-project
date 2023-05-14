@@ -12,6 +12,7 @@
 	<groupId>com.kapil</groupId>
 	<artifactId>Jenkins_project</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>Jenkins_project</name>
 	<description>learning spring boot</description>
 	<properties>
