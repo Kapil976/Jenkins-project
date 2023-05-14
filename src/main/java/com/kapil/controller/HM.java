@@ -11,9 +11,9 @@ import org.springframework.web.bind.annotation.RestController;
  *
  */
 @RestController
-@RequestMapping("/v1")
 public class HM {
 	
+	@RequestMapping("/v1")
 	public String check() {
 		return"Testing...";
 	}
